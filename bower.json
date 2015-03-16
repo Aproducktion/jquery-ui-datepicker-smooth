@@ -1,6 +1,6 @@
 {
   "name": "jquery-ui-datepicker-smooth",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/Aproducktion/jquery-ui-datepicker-smooth",
   "authors": [
     "Bryan <aproducktion@gmail.com>"
@@ -30,10 +30,7 @@
   },  
   "license": "https://github.com/jquery/jquery-ui/blob/master/LICENSE.txt",
   "ignore": [
-    "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }
