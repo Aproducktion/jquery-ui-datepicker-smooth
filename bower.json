@@ -1,0 +1,37 @@
+{
+  "name": "jquery-ui-datepicker-smooth",
+  "version": "0.0.1",
+  "homepage": "git://github.com/Aproducktion/jquery-ui-datepicker-smooth.git",
+  "authors": [
+    "Bryan <aproducktion@gmail.com>"
+  ],
+  "description": "Isolated version of jQuery DatePicker",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "jquery-ui",
+    "simple",
+    "smoothness",
+    "lightweight",
+    "datetime",
+    "datepicker",
+    "timepicker",
+    "datetimepicker" 
+  ],
+  "main": [
+    "jquery-ui-date.min.js",
+    "jquery-ui-date.min.css",
+    "jquery-ui-date.structure.min.css",
+    "jquery-ui-date.theme.min.css"
+  ],  
+  "license": "https://github.com/jquery/jquery-ui/blob/master/LICENSE.txt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
