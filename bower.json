@@ -1,11 +1,11 @@
 {
   "name": "jquery-ui-datepicker-smooth",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "homepage": "https://github.com/Aproducktion/jquery-ui-datepicker-smooth",
   "authors": [
     "Bryan <aproducktion@gmail.com>"
   ],
-  "description": "Isolated version of jQuery DatePicker",
+  "description": "Isolated version of jQuery DatePicker with Slider",
   "moduleType": [
     "globals"
   ],
@@ -20,10 +20,10 @@
     "datetimepicker" 
   ],
   "main": [
-    "jquery-ui-date.min.js",
-    "jquery-ui-date.min.css",
-    "jquery-ui-date.structure.min.css",
-    "jquery-ui-date.theme.min.css"
+    "jquery-ui.min.js",
+    "jquery-ui.min.css",
+    "jquery-ui.structure.min.css",
+    "jquery-ui.theme.min.css"
   ],
   "dependencies": {
     "jquery": ">= 1.7.2"
